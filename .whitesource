@@ -3,10 +3,7 @@
     "configMode": "AUTO",
     "configExternalURL": "",
     "projectToken": "",
-    "baseBranches": [],
-    "versioning": {    
-      "java": ">=17"
-    }   
+    "baseBranches": []
   },
   "scanSettingsSAST": {
     "enableScan": true,
